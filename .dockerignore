@@ -1,0 +1,10 @@
+Dockerfile
+/build
+/dist
+/venv
+/.git
+/.idea
+__pycache__
+*.pyc
+*.pyo
+*.pyd
